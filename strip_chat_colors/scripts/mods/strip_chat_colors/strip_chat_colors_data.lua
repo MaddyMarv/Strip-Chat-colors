@@ -27,6 +27,11 @@ return {
 						default_value = true,
 					},
 					{
+						setting_id = "strip_decorations",
+						type = "checkbox",
+						default_value = true,
+					},
+					{
 						setting_id = "force_lowercase",
 						type = "checkbox",
 						default_value = false,

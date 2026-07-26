@@ -23,7 +23,12 @@ mod:hook("ConstantElementChat", "cb_chat_manager_message_recieved", function(fun
 			new_body = string.gsub(new_body, "{#size%(.-%)}", "")
 		end
 
-		if mod:get("strip_colors") or mod:get("strip_fonts") or mod:get("strip_sizes") then
+		if mod:get("strip_decorations") then
+			new_body = string.gsub(new_body, "{#under%(.-%)}", "")
+			new_body = string.gsub(new_body, "{#strike%(.-%)}", "")
+		end
+
+		if mod:get("strip_colors") or mod:get("strip_fonts") or mod:get("strip_sizes") or mod:get("strip_decorations") then
 			new_body = string.gsub(new_body, "{#reset%(%)}", "")
 		end
 
