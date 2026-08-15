@@ -3,7 +3,9 @@
     "author": "IndicaBunny",
     "version": "1.2",
     "source": "https://github.com/MaddyMarv/Strip-Chat-colors",
-    "kofi": "https://ko-fi.com/indicabunny",
+    "funding": {
+        "kofi": "https://ko-fi.com/indicabunny"
+    },
     "description": "Strips the chat of colors/size/font/caps so it's less distracting but keeps the base game's assigned text colours for pings, etc...",
     "order": {
         "require": [],
