@@ -4,4 +4,10 @@
 
 Standalone mod that strips custom text formatting (colours, sizes, and fonts) injected by other players to make chat less distracting. It cleans up the rainbow text while leaving the base game's assigned text colours (like pings and mod notifcations, for example) completely untouched. You can toggle exactly what gets stripped in the options, and even force all incoming chat messages to be lowercase.
 
+
+**Options:**
+- Strip Custom Options (Colors, Fonts, Sizes)
+- Strip Underline & Strikethrough
+- Force All Lowercase
+
 🔗 **Links:** [Source Code](https://github.com/MaddyMarv/strip-chat-colors) | [Nexus Mods Profile](https://www.nexusmods.com/profile/indicabunny) | [Support Me on Ko-fi](https://ko-fi.com/indicabunny)
