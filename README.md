@@ -1,7 +1,7 @@
 ### [Strip Chat Colors](https://www.nexusmods.com/warhammer40kdarktide/mods/1101)
 <img width="573" height="190" alt="image" src="https://github.com/user-attachments/assets/cebf7fb1-95b3-4aee-8880-cbf0d6af558f" />
 
-Strips custom colors, font sizes, and rainbow text formatting from chat messages while keeping default system text intact.
+Strips custom colors, font sizes, and rainbow text formatting from chat messages while keeping mod notifications and vanilla game pings intact.
 
 **Options:**
 

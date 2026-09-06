@@ -1,4 +1,4 @@
-Strips custom colors, font sizes, and rainbow text formatting from chat messages while keeping default system text intact.
+Strips custom colors, font sizes, and rainbow text formatting from chat messages while keeping mod notifications and vanilla game pings intact.
 
 [b]Options:[/b]
 

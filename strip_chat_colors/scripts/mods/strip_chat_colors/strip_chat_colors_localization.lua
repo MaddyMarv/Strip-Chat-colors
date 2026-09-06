@@ -3,7 +3,7 @@ return {
 		en = "Strip Chat Colors",
 	},
 	mod_description = {
-		en = "Strips custom colors, font sizes, and rainbow text formatting from chat messages while keeping default system text intact.",
+		en = "Strips custom colors, font sizes, and rainbow text formatting from chat messages while keeping mod notifications and vanilla game pings intact.",
 	},
 	strip_settings_group = {
 		en = "Chat Filter Settings",

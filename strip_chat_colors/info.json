@@ -7,7 +7,7 @@
     "funding": {
         "kofi": "https://ko-fi.com/indicabunny"
     },
-    "description": "Strips custom colors, font sizes, and rainbow text formatting from chat messages while keeping default system text intact.",
+    "description": "Strips custom colors, font sizes, and rainbow text formatting from chat messages while keeping mod notifications and vanilla game pings intact.",
     "dependencies": {
         "required": [],
         "self_after": [],
