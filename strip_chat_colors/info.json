@@ -7,7 +7,7 @@
     "funding": {
         "kofi": "https://ko-fi.com/indicabunny"
     },
-    "description": "Strips the chat of colors/size/font/caps so it's less distracting but keeps the base game's assigned text colours for pings, etc...",
+    "description": "Strips custom colors, font sizes, and rainbow text formatting from chat messages while keeping default system text intact.",
     "dependencies": {
         "required": [],
         "self_after": [],
