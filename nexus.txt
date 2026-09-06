@@ -9,4 +9,5 @@ Standalone mod that strips custom text formatting (colours, sizes, and fonts) in
 - Strip Text Decorations (Underline & Strikethrough)
 - Force All Lowercase
 
-[b]Links:[/b] [url=https://github.com/MaddyMarv/strip-chat-colors]Source Code[/url] | [url=https://www.nexusmods.com/profile/indicabunny]Nexus Mods Profile[/url] | [url=https://ko-fi.com/indicabunny]Support Me on Ko-fi[/url]
+[b]Links:[/b]
+[url=https://github.com/MaddyMarv/strip-chat-colors]Source Code[/url] | [url=https://www.nexusmods.com/profile/indicabunny]Nexus Mods Profile[/url] | [url=https://ko-fi.com/indicabunny]Support Me on Ko-fi[/url]
